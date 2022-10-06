@@ -1,0 +1,514 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.bookbackground{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.book2{
+    max-width: 880px;
+    min-width: 700px;
+    /*height: 577px;*/
+    min-height: 577px;
+    max-height: 577px;
+    background-image: url(pics/introPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.bookmark1{
+    max-width: 500px;
+    min-width: 50px;
+    max-height: 500px;
+    min-height: 50px;
+    position: absolute;
+    top: 38px;
+    left: 14px;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    writing-mode: lr-tb;
+}
+
+.nextpage{
+    width: 50px;
+    height: 50px;
+    margin-left: 615px;
+}
+
+/*-------------------------------------------------*/
+.bookbackgroundreal{
+    width:1280px ;
+    height: 577px;
+    background-color: rebeccapurple;
+}
+
+.bookpage{
+    width: 900px;
+    height: 575px;
+    margin: auto;
+    padding-top: -20px;
+}
+
+#lizzie{
+    background-image: url(pics/lizziePage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+
+
+#xiaoxupage{
+    background-image: url(pics/xiaoxuPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#lizziepic{
+    margin-left: 258px; 
+    margin-top: -525px;
+    height: 170px;
+    width: 160px;
+    background-image: url(pics/lizziepic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+}
+
+#xiaoxu{
+    margin-left: 382px;
+    margin-top: -89px;
+    height: 160px;
+    width: 159px;
+    background-image: url(pics/xiaoxupic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#purple{
+    margin-left: 271px;
+    margin-top: -60px;
+    height: 213px;
+    width: 159px;
+    background-image: url(pics/purplepic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#shayla{
+    margin-left: 451px;
+    margin-top: -212px;
+    height: 216px;
+    width: 159px;
+    background-image: url(pics/shaylapic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#Zelong{
+    margin-left: 344px;
+    margin-top: -72px;
+    height: 152px;
+    width: 172px;
+    background-image: url(pics/zelongpic.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: 220px;
+    margin-top: -130px;
+  }
+  .block {
+    width: 108px;
+    height: 129px;
+    margin-left: 0px;
+  }
+
+  #otter{
+    background-image: url(pics/otter.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #mergemansion{
+    background-image: url(pics/mergenansion.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #HM{
+    background-image: url(pics/H&M.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  .linkForAds:link {
+    color: black;
+  }
+  .linkForAds:hover {
+    border-style: solid;
+    border-color: coral;
+    border-width: 2px;
+  }
+
+  /*-----------------------------------------------*/
+  #lizzie11{
+    background-image: url(pics/Lizzie_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#lizzie12{
+    background-image: url(pics/lizzie_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#lizzie13{
+    background-image: url(pics/lizzie_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+ .link_to_return{
+    color: brown;
+    height: 10px;
+    width: 10px;
+    margin-top: -151px;
+    margin-left: 775px;
+    text-decoration: none;
+ }
+
+ .linkforward{
+    color: brown;
+    height: 10px;
+    width: 10px;
+    margin-top: -151px;
+    margin-left: 775px;
+    text-decoration: none;
+ }
+
+ /*--------------------------------------------*/
+ /* 小徐page*/
+ #XiaoxuPage{
+    background-image: url(pics/xiaoxuPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#otter{
+    background-image: url(pics/otter.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #todaytix{
+    background-image: url(pics/todaytix.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #kfc{
+    background-image: url(pics/kfc.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+  }
+
+  #xiaoxu11{
+    background-image: url(pics/xiaoxu_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#xiaoxu12{
+    background-image: url(pics/xiaoxu_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#xiaoxu13{
+    background-image: url(pics/xiaoxu_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*--------------------------------------------*/
+ /* 小徐page*/
+ #PurplePage{
+    background-image: url(pics/purplePage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#purple11{
+    background-image: url(pics/purple_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#purple12{
+    background-image: url(pics/purple_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#purple13{
+    background-image: url(pics/purple_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#dancemasterclass{
+    background-image: url(pics/dance_masterclass.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#universalmusicgroup{
+    background-image: url(pics/universalmusicgroup.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*--------------------------------------------*/
+/*shayla page*/
+#shaylaPage{
+    background-image: url(pics/shaylaPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#shayla11{
+    background-image: url(pics/shayla_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#shayla12{
+    background-image: url(pics/shayla_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#shayla13{
+    background-image: url(pics/shayla_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#figma{
+    background-image: url(pics/figma.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#calm{
+    background-image: url(pics/calm.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*--------------------------------------------*/
+/*zelong page*/
+#zelongPage{
+    background-image: url(pics/zelongPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#zelong11{
+    background-image: url(pics/zelong_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#zelong12{
+    background-image: url(pics/zelong_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#zelong13{
+    background-image: url(pics/zelong_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#yeule{
+    background-image: url(pics/yeule.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#sort{
+    background-image: url(pics/sort.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#customink{
+    background-image: url(pics/customink.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*--------------------------------------------*/
+/*second intro page*/
+
+#second_intro_background{
+    background-image: url(pics/secondintro.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.second_intro_link{
+    color: pink;
+    height: 10px;
+    width: 10px;
+    margin-top: -140px;
+    margin-left: 907px;
+    text-decoration: none;
+}
+
+/*--------------------------------------------*/
+/*emma page*/
+#emmaPage{
+    background-image: url(pics/emmaPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#lincoln{
+    background-image: url(pics/lincoln.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#shuteye{
+    background-image: url(pics/shuteye.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#ecosusi{
+    background-image: url(pics/ecosusi.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#emma11{
+    background-image: url(pics/emma_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#emma12{
+    background-image: url(pics/emma_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#emma13{
+    background-image: url(pics/emma_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*-----------------------------*/
+#gianPage{
+    background-image: url(pics/gianPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#lasetta{
+    background-image: url(pics/lasetta.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#gian11{
+    background-image: url(pics/gian_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#gian12{
+    background-image: url(pics/gian_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#gian13{
+    background-image: url(pics/gian_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*-----------------------------*/
+#florencePage{
+    background-image: url(pics/florencePage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#loreal{
+    background-image: url(pics/lorealparis.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#beatles{
+    background-image: url(pics/thebeatles.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#calm{
+    background-image: url(pics/calm.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#florence11{
+    background-image: url(pics/florence_1_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#florence12{
+    background-image: url(pics/florence_1_2.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#florence13{
+    background-image: url(pics/florence_1_3.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*-------------------------------------------------------------------*/
+#end_background{
+    background-image: url(pics/endPage.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+/*--------------------------*/
+.firstlink{
+    margin-left: 620px;
+}
