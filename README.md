@@ -1,0 +1,2 @@
+# Dear_Algorithm_Operators
+Dear Algorithm Operator, which is the name of my project, is based on this interesting job of the algorithm. The project  is an interaction game based on html and css web pages.  By looking at the pages, the users are invited to see the notebook of an algorithm operator, and chose the best suitable ads that user andrelladuo will be clicking at by looking at the profiles of the people that andrelladuo follows and the people that follows andrelladuo on instagram.
